@@ -1,2 +1,2 @@
 # sk_asif_thanveer
-My Projects
+Django Projects
